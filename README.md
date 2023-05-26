@@ -37,11 +37,11 @@ Este foi o primeiro repositório de código apresentado no [Curso Superior de TS
 
 ### Protótipo visual fornecido pelo professor
 
-![Mockup](./docs/mockup.jpeg)
+<img src="./docs/mockup.jpeg" alt="Protótipo visual" width="270px" />
 
 ### Tela desenvolvida
 
-![App clonado](./docs/calculadora.jpg)
+<img src="./docs/calculadora.jpg" alt="App clonado" width="270px" />
 
 ## Como rodar
 
